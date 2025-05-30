@@ -2,10 +2,10 @@ package http
 
 import (
 	"github.com/labstack/echo/v4"
-	//c
-	//d
 
 	"github.com/AleksK1NG/api-mc/internal/middleware"
+	//1
+	//2
 	"github.com/AleksK1NG/api-mc/internal/news"
 )
 
