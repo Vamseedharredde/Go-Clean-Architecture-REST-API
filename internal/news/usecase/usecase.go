@@ -19,7 +19,7 @@ import (
 
 const (
 	basePrefix    = "api-news:"
-	cacheDuration = 3600
+	cacheDuration = 3700
 )
 
 // News UseCase
